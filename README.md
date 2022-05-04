@@ -1,6 +1,6 @@
 # Сharts app
 
-- [ADD DEMO LINK HERE]()
+- [DEMO LINK](https://vsuslov29.github.io/cities-table/)
 
 ## Description
 
